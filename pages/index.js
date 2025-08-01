@@ -1,9 +1,9 @@
 export default function Home() {
   const players = [
-    { ign: "TAE×VEDANT", role: "Assaulter / Filter", kd: 4.3, wins: 21 },
-    { ign: "TAE×Zod", role: "IGL", kd: 3.9, wins: 17 },
-    { ign: "TAE×DOFF", role: "Entry Fragger", kd: 4.1, wins: 19 },
-    { ign: "TAE×Omegaa", role: "Support", kd: 3.5, wins: 15 }
+    { ign: "TAE×VEDANT", role: "Assaulter / Filter", kd: 4.3, Mvp's: 21 },
+    { ign: "TAE×Zod", role: "IGL", kd: 3.9, Mvp's: 17 },
+    { ign: "TAE×DOFF", role: "Entry Fragger", kd: 4.1, Mvp's: 19 },
+    { ign: "TAE×Omegaa", role: "Support", kd: 3.5, Mvp's: 15 }
   ];
 
   return (
